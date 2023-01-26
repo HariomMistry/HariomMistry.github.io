@@ -13,10 +13,8 @@ body {
 }
 
 #logo-img {
-  background: url('../images/restaurant-logo_large.png') no-repeat;
-  width: 150px;
-  height: 150px;
-  margin: 10px 15px 10px 0;
+    background: url(C:\Users\brm63\Documents\GitHub\HariomMistry.github.io\mod5\images\restaurant-logo_large.png') no-repeat; width: 150px; height: 150px;
+    margin: 10px 15px 10px 0;
 }
 
 .navbar-brand {
@@ -132,7 +130,7 @@ body {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
 #menu-tile {
-  background: url('../images/menu-tile.jpg') no-repeat;
+  background: url('C:\Users\brm63\Documents\GitHub\HariomMistry.github.io\mod5\images\menu-tile.jpg') no-repeat;
   background-position: center;
 }
 #specials-tile {
